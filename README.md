@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm bdabve!
 
-<!--
-**bdabve/bdabve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves building robust and creative solutions. My main toolkit includes Python, PyQT5, Django, SQL/NoSQL databases, and scripting. When I'm not coding, you’ll probably find me out fishing and enjoying the outdoors.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Gestion-Stocks](https://github.com/bdabve/Gestion-Stocks): A comprehensive stock management system.
+- [inventory](https://github.com/bdabve/inventory): An efficient inventory tracking application.
+
+## 🛠️ Skills
+
+- **Languages & Frameworks:** Python, PyQT5, Django
+- **Databases:** SQL, NoSQL
+- **Other:** Automation & scripting
+
+## 📫 Contact
+
+- **Email:** bdabve@gmail.com
+- **GitHub:** [bdabve](https://github.com/bdabve)
+
+## 🎣 Fun Fact
+
+When I’m not solving technical challenges, I love fishing!
+
+---
+
+Thanks for visiting my profile!
