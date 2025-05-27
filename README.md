@@ -1,5 +1,4 @@
-# 👋 Hi there, I'm bdabve!
-
+# 👋 Hi there, I'm Ibrahim Elaarbi
 I'm a passionate developer who loves building robust and creative solutions. My main toolkit includes Python, PyQT5, Django, SQL/NoSQL databases, and scripting. When I'm not coding, you’ll probably find me out fishing and enjoying the outdoors.
 
 ## 🚀 Featured Projects
